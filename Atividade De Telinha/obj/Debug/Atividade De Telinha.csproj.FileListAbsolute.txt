@@ -1,0 +1,11 @@
+E:\Po2\Atividade De Telinha\Atividade De Telinha\bin\Debug\Atividade De Telinha.exe.config
+E:\Po2\Atividade De Telinha\Atividade De Telinha\bin\Debug\Atividade De Telinha.exe
+E:\Po2\Atividade De Telinha\Atividade De Telinha\bin\Debug\Atividade De Telinha.pdb
+E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.csproj.AssemblyReference.cache
+E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.csproj.SuggestedBindingRedirects.cache
+E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade_De_Telinha.Form1.resources
+E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade_De_Telinha.Properties.Resources.resources
+E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.csproj.GenerateResource.cache
+E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.csproj.CoreCompileInputs.cache
+E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.exe
+E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.pdb
