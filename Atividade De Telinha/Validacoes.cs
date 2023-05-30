@@ -14,7 +14,7 @@ public static class Validacoes
         {
             int m = 0;
             int cont = 10;
-
+            //---------------------------- Verificação do Primeiro Digito ---------------------------------------------------
             for (int i = 0; i < Cpf_ver.Length - 2; i++)
             {
                 m += Convert.ToInt32(Cpf_ver[i].ToString()) * cont;
@@ -35,7 +35,7 @@ public static class Validacoes
                     return false;
                 }
             }
-            //---------------------Outra Verificação------------------------------------------------------
+            //---------------------------- Verificação do Segundo Digito ------------------------------------------------------
             int cont1 = 11;
             int n = 0;
             for (int i = 0; i < Cpf_ver.Length - 1; i++)
