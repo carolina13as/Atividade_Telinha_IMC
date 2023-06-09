@@ -9,3 +9,15 @@ E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.
 E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.csproj.CoreCompileInputs.cache
 E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.exe
 E:\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\bin\Debug\Atividade De Telinha.exe.config
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\bin\Debug\Atividade De Telinha.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\bin\Debug\Atividade De Telinha.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade_De_Telinha.Form1.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade_De_Telinha.Properties.Resources.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.csproj.GenerateResource.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade De Telinha.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Atividade De Telinha\Atividade De Telinha\obj\Debug\Atividade_De_Telinha.Cadastro_Cliente.resources

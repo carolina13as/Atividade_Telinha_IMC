@@ -65,6 +65,15 @@ namespace Atividade_De_Telinha
 
         }
 
-        
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Cadastro_Cliente cl = new Cadastro_Cliente();
+            cl.ShowDialog();
+        }
     }
 }
